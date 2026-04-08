@@ -51,9 +51,9 @@ Brazilian E-commerce Public Dataset (Olist)
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+
 
 ---
 
 ## 🚀 Author
-Your Name
+Kshitij Sawant
